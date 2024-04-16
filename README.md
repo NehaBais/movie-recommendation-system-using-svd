@@ -1,2 +1,2 @@
-# data-220-math-lab-1
-Repository for Data-220 Math Methods for Data Analytics, Lab 1
+# Movie Recommender System using SVD
+Download m1.zip file from the link (https://grouplens.org/datasets/movielens/1m/).
